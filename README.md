@@ -1,2 +1,2 @@
 # 20_g575
-Spring Geography 575 Student Labs
+Spring 2020 Geography 575 Student Labs

@@ -1,2 +1,2 @@
-# 20_g575
-Spring 2020 Geography 575 Student Labs
+# Web Mapping - Unit 1
+Repository for Unit 1 of the Web Mapping Workbook.
